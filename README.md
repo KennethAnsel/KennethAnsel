@@ -102,21 +102,24 @@
   <img height="25" src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/main/mona-whisper.gif"/>
 </h2>
 
-<!-- GitHub Stats -->
+<!-- ✅ FIX 1: GitHub Stats — switched to demolab instance -->
 <p align="center">
   <img 
     src="https://github-readme-stats.demolab.com/api?username=KennethAnsel&theme=midnight-purple&hide_border=false&show_icons=true&cache_seconds=86400" 
     alt="GitHub Stats" 
   />
 </p>
-<!-- Streak Stats -->
+
+<!-- ✅ FIX 2: Streak Stats — switched to stable community instance -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KennethAnsel&theme=midnight-purple&hide_border=false&cache_seconds=86400" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=KennethAnsel&theme=midnight-purple&hide_border=false" />
 </p>
-<!-- Top Languages -->
+
+<!-- ✅ FIX 3: Top Languages — switched to demolab instance -->
 <p align="center">
   <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=KennethAnsel&theme=midnight-purple&hide_border=false&layout=compact&cache_seconds=86400" />
 </p>
+
 <h2 align="center">
   📊📈 GitHub Activity Graph 
   <img height="25" src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/main/mona-whisper.gif"/>
@@ -160,4 +163,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:001a00,100:000000&height=120&section=footer&animation=fadeIn"/>
 </p>
-
