@@ -38,37 +38,30 @@
   <li>🤖 AI / ML</li>
 </ul>
 
- <h2 align="center">
-   📱  Reach Out to Me
- <img height="25" src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/main/mona-whisper.gif"/>
+<h2 align="center">
+  📱 Reach Out to Me
+  <img height="25" src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/main/mona-whisper.gif"/>
 </h2>
 
 <p align="center">
-
-<a href="mailto:anselfran06@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://discord.gg/rh7kF3KDJa">
-  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/freaky_afreaky">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ansel-kenneth-francis-993514307">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/anselfran06">
-  <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/@freaky_afreaky">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/ansel-kenneth-francis-993514307" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+  <a href="mailto:anselfran06@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+  <a href="https://discord.gg/rh7kF3KDJa" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg" alt="Discord" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+  <a href="https://instagram.com/freaky_afreaky" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="Instagram" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+  <a href="https://youtube.com/@BlackSyntax404" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+  <a href="https://stackoverflow.com/users/32657931/ansel-francis" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Stackoverflow.svg" alt="Stack Overflow" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
 </p>
  ✮ 👀 Profile Views
 
@@ -78,6 +71,9 @@
 
 <!-- Snake Game Repo View -->
 <picture>
+
+
+  
   <source media="(prefers-color-scheme: dark)" 
     srcset="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/output/github-contribution-grid-snake-dark.svg?v=2" />
   
@@ -102,10 +98,9 @@
   <img height="25" src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/main/mona-whisper.gif"/>
 </h2>
 
-<!-- ✅ FIX 1: GitHub Stats — switched to demolab instance -->
 <p align="center">
   <img 
-    src="https://github-readme-stats.demolab.com/api?username=KennethAnsel&theme=midnight-purple&hide_border=false&show_icons=true&cache_seconds=86400" 
+    src="https://github-readme-stats-ashen-sigma-26.vercel.app/api?username=KennethAnsel&theme=midnight-purple&hide_border=false&show_icons=true&count_private=true&cache_seconds=86400" 
     alt="GitHub Stats" 
   />
 </p>
@@ -115,9 +110,8 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=KennethAnsel&theme=midnight-purple&hide_border=false" />
 </p>
 
-<!-- ✅ FIX 3: Top Languages — switched to demolab instance -->
 <p align="center">
-  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=KennethAnsel&theme=midnight-purple&hide_border=false&layout=compact&cache_seconds=86400" />
+  <img src="https://github-readme-stats-ashen-sigma-26.vercel.app/api/top-langs/?username=KennethAnsel&theme=midnight-purple&hide_border=false&layout=compact&cache_seconds=86400" />
 </p>
 
 <h2 align="center">
